@@ -1,1 +1,23 @@
-theme: jekyll-theme-minimal
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               Codefupanda
+tagline:             ''
+description:         ''
+url:                 https://codefupanda.github.io/
+baseurl:             https://codefupanda.github.io/
+paginate:            5
+
+# About/contact
+author:
+  name:              Shashank Kulkarni
+  disqus_name:       codefupanda
+  url:               https://codefupanda.github.io/
+  github:            https://github.com/codefupanda
+  twitter:           https://twitter.com/icodefupanda
+  linkedin:          https://www.linkedin.com/in/codefupanda/
