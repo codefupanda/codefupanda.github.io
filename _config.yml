@@ -14,9 +14,10 @@ paginate:            5
 
 # About/contact
 author:
-  name:              Shashank Kulkarni
-  disqus_name:       codefupanda
-  url:               https://codefupanda.github.io/
-  github:            https://github.com/codefupanda
-  twitter:           https://twitter.com/icodefupanda
-  linkedin:          https://www.linkedin.com/in/codefupanda/
+  name:               Shashank Kulkarni
+  disqus_name:        codefupanda
+  url:                https://codefupanda.github.io/
+  github:             https://github.com/codefupanda
+  twitter:            https://twitter.com/icodefupanda
+  linkedin:           https://www.linkedin.com/in/codefupanda/
+  google_analytics_id: UA-15507385-2
