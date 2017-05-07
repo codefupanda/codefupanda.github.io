@@ -10,7 +10,7 @@ comments: true
 Welcome to Tutorial Series on Elixir and Phoenix.
 I have recently started learning [Elixir](http://elixir-lang.com) and [Phoenix](http://www.phoenixframework.org), and as a journeyman blogging the way I'm learning the framework. Join me to explore the alchemy.
 
-###Why?
+### Why?
 While browsing for solution to a concurrency problem, I was introduced to [Akka](https://akka.io) and Actor model, 
 I gave it a spin and liked it instantly. Though I could use akka only for my hobby projects, it greatly changed the way I thought about concurrent programming. **While at Morgan Stanely, for re-write of a batch processing system, we modelled each transformation as an actor and tried to apply some of actor based concurrency principle. The new batch processing system with hand-full of classes(actors) which shared no state gave us 5-6X of performance improvements in production. 
 
@@ -28,7 +28,7 @@ The way I learn is by doing, and believe that learn-by-doing is the only way you
 
 So I built UberOnline using Elixir & Phoenix.
 
-###Use case
+### Use case
 I use [Uber](https://www.uber.com) for my office commute and have fixed Home-Office and Office-Home route. Uber app is amazing and quite user friend but I prefer web-apps and wished for a single click booking for my daily routes. 
 
 
